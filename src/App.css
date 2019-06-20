@@ -19,6 +19,15 @@
   color: white;
 }
 
+.abc {
+  color: white;
+  font-style: Georgia;  
+}
+
+.abc:hover{
+  color: black;
+}
+
 .App-link {
   color: #61dafb;
 }
