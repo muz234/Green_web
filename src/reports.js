@@ -26,7 +26,7 @@ class reports extends React.Component {
 
             <h1 style={{
               color: "#E5EFDF",
-              fontFamily: "SignPainter", fontStyle: "italic",
+              fontFamily: "Ariel", fontStyle: "italic",
               fontWeight: "bold", fontSize: "63px",
               textAlign: "center"
             }}>These are your reports </h1>

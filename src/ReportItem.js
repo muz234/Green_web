@@ -33,11 +33,7 @@ class ReportItem extends React.Component {
 
       <div>
           <div style={{textAlign:"center"}}>
-        <h5 style={{
-          color: "#E5EFDF",
-          fontFamily: "Georgia", fontStyle: "italic",
-          fontWeight: "bold", fontSize: "15px"
-        }}>this is you report changess here</h5>
+        
           <p>{this.props.product}</p> 
           <p>Revenue generate based on this {this.props.unitsToProduce} units at market price: {this.props.revenue}
 </p>

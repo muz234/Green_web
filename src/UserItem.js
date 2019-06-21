@@ -48,7 +48,7 @@ handleonDelete = (event) => {
        {this.props.unitstoproduce} 
        
     </h1>
-    <button>Edit</button>
+   
     <button onClick={this.handleonDelete}>Delete</button>
     </div>
   );
