@@ -16,20 +16,21 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .abc {
-  color: white;
+  color: #E5EFDF;
   font-style: Georgia;  
 }
+
 
 .abc:hover{
   color: black;
 }
 
 .App-link {
-  color: #61dafb;
+  /* color: #61dafb; */
 }
 
 @keyframes App-logo-spin {
